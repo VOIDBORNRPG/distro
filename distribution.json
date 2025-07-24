@@ -3613,17 +3613,6 @@
           }
         },
         {
-          "id": ".DS_Store",
-          "name": ".DS_Store",
-          "type": "File",
-          "artifact": {
-            "size": 6148,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/.DS_Store",
-            "MD5": "7101e478a12820d46d77ccf6e10cf766",
-            "path": ".DS_Store"
-          }
-        },
-        {
           "id": "1.png",
           "name": "1.png",
           "type": "File",
@@ -3687,17 +3676,6 @@
             "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/fancymenu_setups/minecraft.png",
             "MD5": "376ff3c95f2da1c07abb9e9bdca7c78f",
             "path": "fancymenu_setups/minecraft.png"
-          }
-        },
-        {
-          "id": ".DS_Store",
-          "name": ".DS_Store",
-          "type": "File",
-          "artifact": {
-            "size": 6148,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/kubejs/.DS_Store",
-            "MD5": "a88d5ebe72771260621a5d0214106fb9",
-            "path": "kubejs/.DS_Store"
           }
         },
         {
@@ -3775,28 +3753,6 @@
             "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/options.txt",
             "MD5": "068e0f489d3b949e4b945b469142083e",
             "path": "options.txt"
-          }
-        },
-        {
-          "id": ".DS_Store",
-          "name": ".DS_Store",
-          "type": "File",
-          "artifact": {
-            "size": 6148,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/patchouli_books/.DS_Store",
-            "MD5": "885bbd24f5fba943704fcf97e41d3818",
-            "path": "patchouli_books/.DS_Store"
-          }
-        },
-        {
-          "id": ".DS_Store",
-          "name": ".DS_Store",
-          "type": "File",
-          "artifact": {
-            "size": 6148,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/patchouli_books/guidebook/.DS_Store",
-            "MD5": "1a20025d2b88038fb0742987980332c3",
-            "path": "patchouli_books/guidebook/.DS_Store"
           }
         },
         {
@@ -5087,25 +5043,14 @@
           }
         },
         {
-          "id": ".DS_Store",
-          "name": ".DS_Store",
-          "type": "File",
-          "artifact": {
-            "size": 6148,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/resourcepacks/.DS_Store",
-            "MD5": "4deb1608198137c7312826841925446f",
-            "path": "resourcepacks/.DS_Store"
-          }
-        },
-        {
-          "id": "FA+All_Extensions-v1.4.zip",
-          "name": "FA+All_Extensions-v1.4.zip",
+          "id": "FA_and_All_Extensions-v1.4.zip",
+          "name": "FA_and_All_Extensions-v1.4.zip",
           "type": "File",
           "artifact": {
             "size": 129064,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/resourcepacks/FA+All_Extensions-v1.4.zip",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/resourcepacks/FA_and_All_Extensions-v1.4.zip",
             "MD5": "a0e6a500daa1711160f06f097aa815ec",
-            "path": "resourcepacks/FA+All_Extensions-v1.4.zip"
+            "path": "resourcepacks/FA_and_All_Extensions-v1.4.zip"
           }
         },
         {
@@ -5131,25 +5076,25 @@
           }
         },
         {
-          "id": "Lost Leaves.zip",
-          "name": "Lost Leaves.zip",
+          "id": "Lost_Leaves.zip",
+          "name": "Lost_Leaves.zip",
           "type": "File",
           "artifact": {
             "size": 586066,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/resourcepacks/Lost%20Leaves.zip",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/resourcepacks/Lost_Leaves.zip",
             "MD5": "5f049d8818385e19d6335ab3d17be8f9",
-            "path": "resourcepacks/Lost Leaves.zip"
+            "path": "resourcepacks/Lost_Leaves.zip"
           }
         },
         {
-          "id": "Quark Programmer Art.zip",
-          "name": "Quark Programmer Art.zip",
+          "id": "Quark_Programmer_Art.zip",
+          "name": "Quark_Programmer_Art.zip",
           "type": "File",
           "artifact": {
             "size": 266434,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/resourcepacks/Quark%20Programmer%20Art.zip",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/resourcepacks/Quark_Programmer_Art.zip",
             "MD5": "372d5ab8040ea8fbf0265bf9163ff206",
-            "path": "resourcepacks/Quark Programmer Art.zip"
+            "path": "resourcepacks/Quark_Programmer_Art.zip"
           }
         },
         {
@@ -5175,36 +5120,25 @@
           }
         },
         {
-          "id": ".DS_Store",
-          "name": ".DS_Store",
-          "type": "File",
-          "artifact": {
-            "size": 6148,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/shaderpacks/.DS_Store",
-            "MD5": "194577a7e20bdcc7afbb718f502c134c",
-            "path": "shaderpacks/.DS_Store"
-          }
-        },
-        {
-          "id": "Lost Souls_ComplementaryReimagined_r5.3+EuphoriaPatches_1.4.1.txt",
-          "name": "Lost Souls_ComplementaryReimagined_r5.3+EuphoriaPatches_1.4.1.txt",
+          "id": "Lost_Souls_ComplementaryReimagined_r5.3_and_EuphoriaPatches_1.4.1.txt",
+          "name": "Lost_Souls_ComplementaryReimagined_r5.3_and_EuphoriaPatches_1.4.1.txt",
           "type": "File",
           "artifact": {
             "size": 1697,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/shaderpacks/Lost%20Souls_ComplementaryReimagined_r5.3+EuphoriaPatches_1.4.1.txt",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/shaderpacks/Lost_Souls_ComplementaryReimagined_r5.3_and_EuphoriaPatches_1.4.1.txt",
             "MD5": "6e961b6c62c8145eec34516c83c28410",
-            "path": "shaderpacks/Lost Souls_ComplementaryReimagined_r5.3+EuphoriaPatches_1.4.1.txt"
+            "path": "shaderpacks/Lost_Souls_ComplementaryReimagined_r5.3_and_EuphoriaPatches_1.4.1.txt"
           }
         },
         {
-          "id": "Lost Souls_ComplementaryReimagined_r5.3+EuphoriaPatches_1.4.1.zip",
-          "name": "Lost Souls_ComplementaryReimagined_r5.3+EuphoriaPatches_1.4.1.zip",
+          "id": "Lost_Souls_ComplementaryReimagined_r5.3_and_EuphoriaPatches_1.4.1.zip",
+          "name": "Lost_Souls_ComplementaryReimagined_r5.3_and_EuphoriaPatches_1.4.1.zip",
           "type": "File",
           "artifact": {
             "size": 1202561,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/shaderpacks/Lost%20Souls_ComplementaryReimagined_r5.3+EuphoriaPatches_1.4.1.zip",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/files/shaderpacks/Lost_Souls_ComplementaryReimagined_r5.3_and_EuphoriaPatches_1.4.1.zip",
             "MD5": "a1af8f2ede1aa16d1346d0b4319d5dd4",
-            "path": "shaderpacks/Lost Souls_ComplementaryReimagined_r5.3+EuphoriaPatches_1.4.1.zip"
+            "path": "shaderpacks/Lost_Souls_ComplementaryReimagined_r5.3_and_EuphoriaPatches_1.4.1.zip"
           }
         }
       ]
