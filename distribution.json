@@ -1348,7 +1348,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 366112,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/dynamiccrosshair-7.4.4+1.20-forge.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/dynamiccrosshair-7.4.4-1.20-forge.jar",
             "MD5": "654d086a173cc9da5d51e88af3db2c29"
           }
         },
@@ -1488,7 +1488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 99678,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/entity_sound_features_forge_1.19.4+-0.4.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/entity_sound_features_forge_1.19.4-0.4.jar",
             "MD5": "0001986834f182656ee0cb55e8c80558"
           }
         },
@@ -1608,7 +1608,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3041071,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.8-1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/fabric-api-0.92.2-1.11.8-1.20.1.jar",
             "MD5": "7217481b8e9f40ac27273c1b5df0feb3"
           }
         },
@@ -1708,7 +1708,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2224318,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/figura-0.1.4+1.20.1-forge-mc.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/figura-0.1.4-1.20.1-forge-mc.jar",
             "MD5": "499a1ef56651c933c6365d34bfa916f0"
           }
         },
@@ -1858,7 +1858,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11322915,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/idas_forge-1.10.1+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/idas_forge-1.10.1-1.20.1.jar",
             "MD5": "ce4bacc875d1caf181293cb02484ab5d"
           }
         },
@@ -1888,7 +1888,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 449076,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.3.2+1.20.4.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.3.2-1.20.4.jar",
             "MD5": "f0513f69fe7556e915f83d05f530c191"
           }
         },
@@ -1928,7 +1928,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 683711,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/integrated_api-1.5.1+1.20.1-forge.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/integrated_api-1.5.1-1.20.1-forge.jar",
             "MD5": "49865ff257c8931ccd8b7ac669a57c76"
           }
         },
@@ -1938,7 +1938,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5254608,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/integrated_stronghold-1.1.1+1.20.1-forge.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/integrated_stronghold-1.1.1-1.20.1-forge.jar",
             "MD5": "92b0b7f2da36896ef08c6fc4f1e35e65"
           }
         },
@@ -2783,12 +2783,12 @@
           }
         },
         {
-          "id": "generated.forgemod:player:animation-lib-fabric-1.0.2-rc1+1.20@jar",
+          "id": "generated.forgemod:player:animation-lib-fabric-1.0.2-rc1-1.20@jar",
           "name": "Player",
           "type": "ForgeMod",
           "artifact": {
             "size": 181008,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/player-animation-lib-fabric-1.0.2-rc1-1.20.jar",
             "MD5": "03dfb09aabe5c2c8167568cd5c32666b"
           }
         },
@@ -3013,12 +3013,12 @@
           }
         },
         {
-          "id": "generated.forgemod:rogues:1.1.0+1.20.1@jar",
+          "id": "generated.forgemod:rogues:1.1.0-1.20.1@jar",
           "name": "Rogues",
           "type": "ForgeMod",
           "artifact": {
             "size": 1148763,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/rogues-1.1.0+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/rogues-1.1.0-1.20.1.jar",
             "MD5": "6bb0d66cbf434f9b32e389279ec7832e"
           }
         },
@@ -3173,12 +3173,12 @@
           }
         },
         {
-          "id": "generated.forgemod:smoothscrollingrefurbished+1.20:1.1.2@jar",
-          "name": "SmoothScrollingRefurbished+1.20",
+          "id": "generated.forgemod:smoothscrollingrefurbished:1.20-1.1.2@jar",
+          "name": "SmoothScrollingRefurbished",
           "type": "ForgeMod",
           "artifact": {
             "size": 10563,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/SmoothScrollingRefurbished+1.20-1.1.2.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/SmoothScrollingRefurbished-1.20-1.1.2.jar",
             "MD5": "ed8de4a56563ef3ac6dde9c6961ab7b3"
           }
         },
