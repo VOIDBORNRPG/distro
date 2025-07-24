@@ -29,6 +29,3 @@ jobs:
 
       - name: Upload distribution.json
         run: b2 file upload --content-type application/json --info b2-cache-control=no-cache VOIDBORNRPG ./distribution.json distribution.json
-
-      - name: Upload servermeta.json
-        run: b2 file upload --contentType application/json --info b2-cache-control:no-cache VOIDBORNRPG ./servers/LostSouls-1.20.1/servermeta.json servers/LostSouls-1.20.1/servermeta.json
