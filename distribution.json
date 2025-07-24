@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3919767,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/Alex's%20Mobs%20Music%20Mod%201.20.1%20v1.1.0.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/Alex's-Mobs-Music-Mod-1.20.1-v1.1.0.jar",
             "MD5": "a90776c385dd7f0fa837bf02e0de6a04"
           }
         },
@@ -593,12 +593,12 @@
           }
         },
         {
-          "id": "generated.forgemod:archers:1.2.5+1.20.1@jar",
+          "id": "generated.forgemod:archers:1.2.5-1.20.1@jar",
           "name": "Archers",
           "type": "ForgeMod",
           "artifact": {
             "size": 1111345,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/archers-1.2.5+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/archers-1.2.5-1.20.1.jar",
             "MD5": "0e55e00b4434088c370153e625ea85bc"
           }
         },
@@ -753,12 +753,12 @@
           }
         },
         {
-          "id": "generated.forgemod:better:clouds-1.3.22+1.20.1-fabric@jar",
+          "id": "generated.forgemod:better:clouds-1.3.22-1.20.1-fabric@jar",
           "name": "Better",
           "type": "ForgeMod",
           "artifact": {
             "size": 495484,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/better-clouds-1.3.22+1.20.1-fabric.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/better-clouds-1.3.22-1.20.1-fabric.jar",
             "MD5": "22744f23ba48b19b8127d703a2775238"
           }
         },
@@ -778,7 +778,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1050118,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/bettercombat-forge-1.8.6+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/bettercombat-forge-1.8.6-1.20.1.jar",
             "MD5": "28f4682af86e8bdee7b808fa0adbdf81"
           }
         },
@@ -858,7 +858,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9017146,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/Boss%20Music%20Mod%201.20.x%20v1.2.0.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/Boss-Music-Mod-1.20.x-v1.2.0.jar",
             "MD5": "f6758001ed36d180d338d6060844fd16"
           }
         },
@@ -888,7 +888,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 40125,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/caelus-forge-3.2.0-1.20.1.jar",
             "MD5": "e37854c44b1849b753afc4a205f31b46"
           }
         },
@@ -898,7 +898,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30164,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/cakechomps-forge-6.2.0+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/cakechomps-forge-6.2.0-1.20.1.jar",
             "MD5": "0634cfdcfc9a5c3e52b7261e7cd2789d"
           }
         },
@@ -968,7 +968,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 60991,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/cherishedworlds-forge-6.1.6+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/cherishedworlds-forge-6.1.6-1.20.1.jar",
             "MD5": "8172ddff5a27a1a31baffac05d4b340b"
           }
         },
@@ -1063,12 +1063,12 @@
           }
         },
         {
-          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
+          "id": "generated.forgemod:connector:1.0.0-beta.46-1.20.1@jar",
           "name": "Connector",
           "type": "ForgeMod",
           "artifact": {
             "size": 5043384,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/Connector-1.0.0-beta.46-1.20.1.jar",
             "MD5": "3c07e0a25c1921da7586c0290c72ba86"
           }
         },
@@ -1078,7 +1078,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 182464,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/ConnectorExtras-1.11.2+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/ConnectorExtras-1.11.2-1.20.1.jar",
             "MD5": "6a79978270b2aa5ddc42c2be4f4d73a7"
           }
         },
@@ -1208,7 +1208,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 380722,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/curios-forge-5.8.1+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/curios-forge-5.8.1-1.20.1.jar",
             "MD5": "01d88c09639a20569ac9dea5f4a33ea6"
           }
         },
@@ -1238,7 +1238,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 71241,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/DaC+Irons1.3.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/DaC-Irons1.3.jar",
             "MD5": "c2e3cf582d6dade80af15518e8656547"
           }
         },
@@ -1258,7 +1258,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 368483,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/diet-forge-2.1.1+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/diet-forge-2.1.1-1.20.1.jar",
             "MD5": "9a3d884e073eb6791be3fbcafd38f2b2"
           }
         },
@@ -1328,7 +1328,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13127334,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/dungeons-and-taverns-3.0.3.f[Forge].jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/dungeons-and-taverns-3.0.3.f-forge.jar",
             "MD5": "117070ac45f26e3793e3dd950ccbdc75"
           }
         },
@@ -1338,7 +1338,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 342609,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/dynamic-fps-3.7.7+minecraft-1.20.0-forge.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/dynamic-fps-3.7.7-minecraft-1.20.0-forge.jar",
             "MD5": "e47dc2c8d23d6eef7010a13d88fb20f7"
           }
         },
@@ -1408,7 +1408,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/embeddium-0.3.31-mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
@@ -1608,17 +1608,17 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3041071,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.8+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.8-1.20.1.jar",
             "MD5": "7217481b8e9f40ac27273c1b5df0feb3"
           }
         },
         {
-          "id": "generated.forgemod:fabric:language-kotlin-1.11.0+kotlin.2.0.0@jar",
+          "id": "generated.forgemod:fabric:language-kotlin-1.11.0-kotlin.2.0.0@jar",
           "name": "Fabric",
           "type": "ForgeMod",
           "artifact": {
             "size": 7015315,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/fabric-language-kotlin-1.11.0-kotlin.2.0.0.jar",
             "MD5": "ac91311ce91421ca52a96d2a4e4f078c"
           }
         },
@@ -1758,7 +1758,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1480834,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/fzzy_config-0.5.4+1.20.1+forge.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/fzzy_config-0.5.4-1.20.1-forge.jar",
             "MD5": "95e9cf95796d1f6b4163bd7f4f83bfab"
           }
         },
@@ -1788,7 +1788,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1758391,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/Geophilic%20v3.1.4%20f15-57.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/Geophilic-v3.1.4-f15-57.jar",
             "MD5": "e38e33a0de8eff7741c82b4ea46459d4"
           }
         },
@@ -2108,7 +2108,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 71521167,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/L_Enders_Cataclysm-2.16%20-%201.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/L_Enders_Cataclysm-2.16-1.20.1.jar",
             "MD5": "8706959cdfaab531bfe691f638c6f4fc"
           }
         },
@@ -2268,7 +2268,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 26236703,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/LS%20Alex%20mobs.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/LS-Alex-mobs.jar",
             "MD5": "2925fb0c0e5b32a6772ed1884650714d"
           }
         },
@@ -2378,7 +2378,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 227925,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/memoryleakfix-forge-1.17-1.1.5.jar",
             "MD5": "5dd9149414ca375ceab146242c6e84ab"
           }
         },
@@ -2458,7 +2458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 778617,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/modernfix-forge-5.19.5+mc1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/modernfix-forge-5.19.5-mc1.20.1.jar",
             "MD5": "23d4aa0c5cdec95eeadf3a6ce12f610f"
           }
         },
@@ -2508,7 +2508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25172,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/namepain-1.5.0%20forge-1.20.x.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/namepain-1.5.0-forge-1.20.x.jar",
             "MD5": "51bff5943ca721582cbb9f4f23672736"
           }
         },
@@ -2578,7 +2578,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 218152,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/noisium-forge-2.3.0-mc1.20-1.20.1.jar",
             "MD5": "3a8e9a24408c991b3fb97685884f2cce"
           }
         },
@@ -2598,7 +2598,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 212286,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/ObsidianUI-forge-0.2.3+mc1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/ObsidianUI-forge-0.2.3-mc1.20.1.jar",
             "MD5": "323ee5036a5113c1529520430e7b6a04"
           }
         },
@@ -2608,7 +2608,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 401032,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/OctoLib-FORGE-0.4.2+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/OctoLib-FORGE-0.4.2-1.20.1.jar",
             "MD5": "1d54e1330f1f89a2544eeae005c3a4a6"
           }
         },
@@ -2618,7 +2618,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 69275,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/oculus-flywheel-compat-forge1.20.1+1.1.2.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/oculus-flywheel-compat-forge1.20.1-1.1.2.jar",
             "MD5": "e7c455c2170420a0df1ae89e1f87e7ec"
           }
         },
@@ -2648,7 +2648,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6674089,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/Oreganized%201.20.1-3.1.2.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/Oreganized-1.20.1-3.1.2.jar",
             "MD5": "0a9b20185f0356010308250c5880e0cd"
           }
         },
@@ -2663,22 +2663,22 @@
           }
         },
         {
-          "id": "generated.forgemod:owo:lib-0.11.2+1.20@jar",
+          "id": "generated.forgemod:owo:lib-0.11.2-1.20@jar",
           "name": "Owo",
           "type": "ForgeMod",
           "artifact": {
             "size": 905421,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/owo-lib-0.11.2+1.20.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/owo-lib-0.11.2-1.20.jar",
             "MD5": "9150f588f732ae38c0320a17fa340626"
           }
         },
         {
-          "id": "generated.forgemod:paladins:1.3.1+1.20.1@jar",
+          "id": "generated.forgemod:paladins:1.3.1-1.20.1@jar",
           "name": "Paladins",
           "type": "ForgeMod",
           "artifact": {
             "size": 2655447,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/paladins-1.3.1+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/paladins-1.3.1-1.20.1.jar",
             "MD5": "6ef1044ef08e12af5c0e7c058f331d53"
           }
         },
@@ -2688,7 +2688,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 233587,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/panorama_screens-1.0+forge+mc1.20.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/panorama_screens-1.0-forge-mc1.20.jar",
             "MD5": "5f057c53f6b798a6387430a91380fdce"
           }
         },
@@ -2698,7 +2698,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 95351,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/particle_core-0.2.5+1.20.1+forge.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/particle_core-0.2.5-1.20.1-forge.jar",
             "MD5": "e8ac337d4436d8b3dfbbb9edf503c338"
           }
         },
@@ -2798,7 +2798,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5298123,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/player%20revive.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/player-revive.jar",
             "MD5": "40c8a5db48ff8f86f21c05daa11b53e7"
           }
         },
@@ -2818,7 +2818,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 298759,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/polymorph-forge-0.49.5+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/polymorph-forge-0.49.5-1.20.1.jar",
             "MD5": "50b704c0f2c18db908ce99d628889a9a"
           }
         },
@@ -2858,7 +2858,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 251688,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/projectile_damage-forge-3.2.2+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/projectile_damage-forge-3.2.2-1.20.1.jar",
             "MD5": "68c529bd75678dfe737895fbf8c3ea51"
           }
         },
@@ -2908,7 +2908,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 44824,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/radiantgear-forge-2.1.5+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/radiantgear-forge-2.1.5-1.20.1.jar",
             "MD5": "c429c605b619be9a9de461bf74f440e7"
           }
         },
@@ -2918,7 +2918,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 713454,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/radium-mc1.20.1-0.12.4-git.26c9d8e.jar",
             "MD5": "3a46fb58e8ff12213e4dbc909f47a77d"
           }
         },
@@ -3233,22 +3233,22 @@
           }
         },
         {
-          "id": "generated.forgemod:spell_engine:0.15.11+1.20.1@jar",
+          "id": "generated.forgemod:spell_engine:0.15.11-1.20.1@jar",
           "name": "Spell_engine",
           "type": "ForgeMod",
           "artifact": {
             "size": 1585062,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/spell_engine-0.15.11+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/spell_engine-0.15.11-1.20.1.jar",
             "MD5": "9bd8581e39c726060bc7c8a1cb4cc072"
           }
         },
         {
-          "id": "generated.forgemod:spell_power:0.12.0+1.20.1@jar",
+          "id": "generated.forgemod:spell_power:0.12.0-1.20.1@jar",
           "name": "Spell_power",
           "type": "ForgeMod",
           "artifact": {
             "size": 186003,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/spell_power-0.12.0+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/spell_power-0.12.0-1.20.1.jar",
             "MD5": "dd2471464961c162b17b94ba5617597d"
           }
         },
@@ -3258,7 +3258,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 54173,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/spyglass_improvements-1.5+mc1.20+forge.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/spyglass_improvements-1.5-mc1.20-forge.jar",
             "MD5": "4de5a2da852dfffce415c74cf9b642cd"
           }
         },
@@ -3483,12 +3483,12 @@
           }
         },
         {
-          "id": "generated.forgemod:wakes:0.2.4+1.20.1@jar",
+          "id": "generated.forgemod:wakes:0.2.4-1.20.1@jar",
           "name": "Wakes",
           "type": "ForgeMod",
           "artifact": {
             "size": 347775,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/wakes-0.2.4+1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/wakes-0.2.4-1.20.1.jar",
             "MD5": "f75af02420da5245d145257bdf0a080a"
           }
         },
@@ -3518,7 +3518,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 568278,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/YeetusExperimentus-Forge-2.3.1-build.6-mc1.20.1.jar",
             "MD5": "b6a02a72cc15d1b1228c4b1ecf7fa3ee"
           }
         },
@@ -3528,7 +3528,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1151778,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/YetAnotherConfigLib-3.5.0+1.20.1-forge.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/YetAnotherConfigLib-3.5.0-1.20.1-forge.jar",
             "MD5": "3f5606d396044b5e67229a6fa075fc1c"
           }
         },
