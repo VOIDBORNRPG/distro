@@ -19,13 +19,13 @@ jobs:
         run: b2 authorize-account ${{ secrets.B2_KEY_ID }} ${{ secrets.B2_APP_KEY }}
 
       - name: Sync schemas
-        run: b2 sync --delete ./schemas b2://VOIDBORNRPG/schemas
+        run: b2 sync ./schemas b2://VOIDBORNRPG/schemas
 
       - name: Sync servers
-        run: b2 sync --delete ./servers b2://VOIDBORNRPG/servers
+        run: b2 sync ./servers b2://VOIDBORNRPG/servers
 
       - name: Sync repo
-        run: b2 sync --delete ./repo b2://VOIDBORNRPG/repo
+        run: b2 sync ./repo b2://VOIDBORNRPG/repo
 
       - name: Upload distribution.json
         run: b2 file upload --content-type application/json --info b2-cache-control=no-cache VOIDBORNRPG ./distribution.json distribution.json
