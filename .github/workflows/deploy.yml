@@ -27,11 +27,8 @@ jobs:
       - name: Sync repo
         run: b2 sync --delete ./repo b2://VOIDBORNRPG/repo
 
-      - name: Sync distribution.json
-        run: b2 sync --delete ./distribution.json b2://VOIDBORNRPG/distribution.json
-
-      - name: No Cache distribution.json
+      - name: Upload distribution.json
         run: b2 upload-file --contentType application/json --info "b2-cache-control:no-cache" VOIDBORNRPG ./distribution.json distribution.json
 
-      - name: No Cache servermeta.json
+      - name: Upload servermeta.json
         run: b2 upload-file --contentType application/json --info "b2-cache-control:no-cache" VOIDBORNRPG ./servers/LostSouls-1.20.1/servermeta.json servers/LostSouls-1.20.1/servermeta.json
