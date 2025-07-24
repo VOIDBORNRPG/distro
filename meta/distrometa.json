@@ -1,0 +1,6 @@
+{
+  "$schema": "https://cdn.laikov.dev/file/VOIDBORNRPG/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "<LINK TO RSS FEED>"
+  }
+}
