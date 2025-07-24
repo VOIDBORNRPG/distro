@@ -1,0 +1,37 @@
+name: Sync Repo to Backblaze B2
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Backblaze B2 CLI
+        run: pip install --upgrade b2
+
+      - name: Authorize Backblaze B2
+        run: b2 authorize-account ${{ secrets.B2_KEY_ID }} ${{ secrets.B2_APP_KEY }}
+
+      - name: Sync schemas
+        run: b2 sync --delete ./schemas b2://VOIDBORNRPG/schemas
+
+      - name: Sync servers
+        run: b2 sync --delete ./servers b2://VOIDBORNRPG/servers
+
+      - name: Sync repo
+        run: b2 sync --delete ./repo b2://VOIDBORNRPG/repo
+
+      - name: Sync distribution.json
+        run: b2 sync --delete ./distribution.json b2://VOIDBORNRPG/distribution.json
+
+      - name: No Cache distribution.json
+        run: b2 upload-file --contentType application/json --info "b2-cache-control:no-cache" VOIDBORNRPG ./distribution.json distribution.json
+
+      - name: No Cache servermeta.json
+        run: b2 upload-file --contentType application/json --info "b2-cache-control:no-cache" VOIDBORNRPG ./servers/LostSouls-1.20.1/servermeta.json servers/LostSouls-1.20.1/servermeta.json
