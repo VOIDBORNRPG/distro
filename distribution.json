@@ -1048,8 +1048,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1159192,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/cloth-config-11.1.118-fabric.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/optionalon/cloth-config-11.1.118-fabric.jar",
             "MD5": "eb13a834db10ee7e8c5e6a6d4b037fbd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1068,8 +1071,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5043384,
-            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/required/Connector-1.0.0-beta.46-1.20.1.jar",
+            "url": "https://cdn.laikov.dev/file/VOIDBORNRPG/servers/LostSouls-1.20.1/forgemods/optionalon/Connector-1.0.0-beta.46-1.20.1.jar",
             "MD5": "3c07e0a25c1921da7586c0290c72ba86"
+          },
+          "required": {
+            "value": false
           }
         },
         {
